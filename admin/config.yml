@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: danurbanowicz/eleventy-sveltia-cms-starter
+  repo: theapplegates/eleventy-sveltia-starter2
   branch: master
 
 media_folder: "static/img"
